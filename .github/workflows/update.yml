@@ -50,4 +50,4 @@ jobs:
           SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
         with:
           source-repo: 'git@github.com:cosir888/gh-hosts.git'
-          destination-repo: 'git@gitee.com:if-the-wind/gh-hosts.git'
+          destination-repo: 'git@gitee.com:if-the-wind/github-hosts.git'
