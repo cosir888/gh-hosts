@@ -19,8 +19,8 @@ Add an rule:
 - url: [https://gitee.com/fliu2476/github-hosts/raw/main/hosts](https://gitee.com/fliu2476/github-hosts/raw/main/hosts)
 - auto update: 1 Hour
 
-名称：自定义
-类型：远程
-网址：[https://gitee.com/if-the-wind/github-hosts/raw/main/hosts](https://gitee.com/if-the-wind/github-hosts/raw/main/hosts)
-自动更新：1小时
+- 名称：自定义
+- 类型：远程
+- 网址：[https://gitee.com/if-the-wind/github-hosts/raw/main/hosts](https://gitee.com/if-the-wind/github-hosts/raw/main/hosts)
+- 自动更新：1小时
 
