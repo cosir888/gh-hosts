@@ -53,4 +53,4 @@ Add an rule:
 - auto update: 1 Hour
 
 that's it!
-
+ 
